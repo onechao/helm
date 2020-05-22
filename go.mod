@@ -1,4 +1,4 @@
-module helm.sh/helm/v3
+module github.com/onechao/helm
 
 go 1.13
 
